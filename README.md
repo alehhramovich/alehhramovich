@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alehhramovich
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning API Autmation
+- 💞️ I’m looking to collaborate on API Automation and Integration Testing
+- 📫 How to reach me: aleh.hramovich@idt.net
